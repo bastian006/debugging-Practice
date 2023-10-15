@@ -1,0 +1,15 @@
+D:\CURSO SONDA C#\C#\ACTIVIDADES\debugging-Practice\bin\Debug\net6.0\debugging-Practice.exe
+D:\CURSO SONDA C#\C#\ACTIVIDADES\debugging-Practice\bin\Debug\net6.0\debugging-Practice.deps.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\debugging-Practice\bin\Debug\net6.0\debugging-Practice.runtimeconfig.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\debugging-Practice\bin\Debug\net6.0\debugging-Practice.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\debugging-Practice\bin\Debug\net6.0\debugging-Practice.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\debugging-Practice\obj\Debug\net6.0\debugging-Practice.csproj.AssemblyReference.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\debugging-Practice\obj\Debug\net6.0\debugging-Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO SONDA C#\C#\ACTIVIDADES\debugging-Practice\obj\Debug\net6.0\debugging-Practice.AssemblyInfoInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\debugging-Practice\obj\Debug\net6.0\debugging-Practice.AssemblyInfo.cs
+D:\CURSO SONDA C#\C#\ACTIVIDADES\debugging-Practice\obj\Debug\net6.0\debugging-Practice.csproj.CoreCompileInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\debugging-Practice\obj\Debug\net6.0\debugging-Practice.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\debugging-Practice\obj\Debug\net6.0\refint\debugging-Practice.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\debugging-Practice\obj\Debug\net6.0\debugging-Practice.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\debugging-Practice\obj\Debug\net6.0\debugging-Practice.genruntimeconfig.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\debugging-Practice\obj\Debug\net6.0\ref\debugging-Practice.dll
